@@ -11,10 +11,10 @@
    
   ##
   <a href="https://github.com/Marlomsshttps://github.com/Marlomss">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marlom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlom&layout=compact&langs_count=7&theme=dark"/>
+ <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Marlom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlom&layout=compact&langs_count=7&theme=dark"/>
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Marlom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marlom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marlom-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
