@@ -1,7 +1,6 @@
 ### Olá! me chamo Marlom
 
 - 💻 Cursando Análise e desenvolvimento de Sistemas na FATEC Guarulhos
-- ☕ Estudando Java e Javascript
 - 😄 Pronomes: ele/dele
   
  <div>
